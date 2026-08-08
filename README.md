@@ -103,13 +103,12 @@
   <a href="https://github.com/d1px">
     <img src="https://img.shields.io/badge/GitHub-0B0A1A?style=for-the-badge&logo=github&logoColor=6E45F2"/>
   </a>
+  <a href="https://www.linkedin.com/in/dipmondal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0A1A?style=for-the-badge&logo=linkedin&logoColor=6E45F2"/>
+  </a>
   <!--
-    Add your own links the same way once you have the URLs, keeping the
-    same badge style so the row stays consistent:
+    Portfolio link goes here once ready, same badge style:
 
-    <a href="https://linkedin.com/in/YOUR-HANDLE">
-      <img src="https://img.shields.io/badge/LinkedIn-0B0A1A?style=for-the-badge&logo=linkedin&logoColor=6E45F2"/>
-    </a>
     <a href="https://your-portfolio.com">
       <img src="https://img.shields.io/badge/Portfolio-0B0A1A?style=for-the-badge&logo=firefox&logoColor=FB5E40"/>
     </a>
